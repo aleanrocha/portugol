@@ -12,6 +12,7 @@ programa
 		leia(nome)
 		escreva("Seu primeiro nome é --> "+ (t.caixa_alta(t.extrair_subtexto(nome, 0, t.posicao_texto(" ", nome, 0)))) + " :)")
 		escreva("\n*************************************************\n")
+		
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -19,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 113; 
+ * @POSICAO-CURSOR = 430; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
