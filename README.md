@@ -1,4 +1,4 @@
-# ALGORITMO
+# ALGORITMOS
 Curso de *Lógica de Progamação* do [Estudonauta](https://estudonauta.com) utilizando o **Portugol Studio** com o professor excepcional __Gustavo Guanabara__.
 
 ## Módulos do Curso
